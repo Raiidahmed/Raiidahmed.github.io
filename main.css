@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Alegreya';
+	src: url("AlegreyaSans-Black.ttf");
+}
+body {
+    font-family:'Alegreya';
+    font-size:30;
+    background-image: url("Welcometoskyvalley.jpg");
+    color: grey;
+    padding-left:20px; 
+    	 text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
+    
+
