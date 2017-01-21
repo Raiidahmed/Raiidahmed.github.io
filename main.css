@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'Alegreya';
-	src: url("AlegreyaSans-Black.ttf");
+    font-family: 'Didot';
+	src: url("ufonts.com_didot.ttf");
 }
 body {
 background-color: lightblue;
-    font-family:'Alegreya';
+    font-family:'Didot';
     font-size:30;
     color: black;
     padding-left:20px; 
