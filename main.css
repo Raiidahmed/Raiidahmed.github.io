@@ -3,10 +3,9 @@
 	src: url("AlegreyaSans-Black.ttf");
 }
 body {
+background-color: lightblue;
     font-family:'Alegreya';
     font-size:30;
-	background-color: lightblue;
-
     color: black;
     padding-left:20px; 
 }
